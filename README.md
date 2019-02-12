@@ -111,7 +111,7 @@ So, for instance, to build only docker-database, execute:
 
     make target/docker-database.gz
 
-Same goes for debian packages, which are under target/debs/:
+Same goes for debian packages, which are under `target/debs/`:
 
     make target/debs/swss_1.0.0_amd64.deb
 
